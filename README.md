@@ -17,7 +17,7 @@ The business needs to monitor **sales performance and customer reviews** to iden
 ### Charts Requirement
 - 📈 **YTD Sales by Month** (Line Chart)  
 - 📊 **YTD Sales by Week** (Column Chart)  
-- 🔥 **Sales by Product Category** (Heatmap/Text Table)  
+- 🔥 **Sales by Product Category** (Text Table)  
 - 🏆 **Top 5 Products by YTD Sales** (Bar Chart)  
 - ⭐ **Top 5 Products by YTD Reviews** (Bar Chart)  
 
@@ -44,14 +44,6 @@ Before building the dashboard, the dataset was cleaned to ensure accuracy and re
 - ✅ **Outlier Check** – Identified extreme values in `Price (Dollar)` to avoid misleading trends  
 - ✅ **Created Date Table** – Added custom date table with fields: `Month`, `Quarter`, `Week Number`, etc.  
 
----
-
-## 📊 Dashboard Preview
-![Dashboard Screenshot](Dashboard/Dashboard_Screenshot.png)
-
----
-
----
 
 ## ⚙️ Tools Used
 - **Power BI** (Data Visualization & Dashboarding)  
@@ -77,6 +69,6 @@ Before building the dashboard, the dataset was cleaned to ensure accuracy and re
 
 ## 👨‍💻 Author
 **Abhilash Gangojipeta**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
+📧 [imabhi.1753@gmail.com]  
+🔗 [https://www.linkedin.com/in/abhilashgangojipeta/]  
 
