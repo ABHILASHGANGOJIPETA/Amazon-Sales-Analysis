@@ -4,6 +4,11 @@ This project is a Power BI Dashboard created to analyze Amazon product sales and
 It focuses on Year-to-Date (YTD) and Quarter-to-Date (QTD) insights, helping track sales performance, product demand, and customer feedback.
 
 ---
+## Dashboard Preview
+Here is the Amazon Sales Analysis Dashboard built in Power BI  
+
+![Dashboard Screenshot](Amazon%20Products%20Sales%20Analysis%20Dashboard-Project/Amazon%20Products%20Sales%20Analysis%20Dashboard.png)
+
 
 ## Problem Statement
 The business needs to monitor sales performance and customer reviews to identify growth opportunities and track top-performing products.
@@ -60,12 +65,6 @@ Before building the dashboard, the dataset was cleaned to ensure accuracy and re
 
 ---
 
-## Dashboard Preview
-Here is the Amazon Sales Analysis Dashboard built in Power BI  
-
-![Dashboard Screenshot](Amazon%20Products%20Sales%20Analysis%20Dashboard-Project/Amazon%20Products%20Sales%20Analysis%20Dashboard.png)
-
----
 
 ## How to Use
 1. Clone this repository or download as ZIP  
