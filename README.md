@@ -61,7 +61,7 @@ Before building the dashboard, the dataset was cleaned to ensure accuracy and re
 ## 📊 Dashboard Preview
 Here is the **Amazon Sales Analysis Dashboard** built in Power BI 👇  
 
-![Amazon Sales Dashboard](Dashboard/Amazon%20Products%20Sales%20Analysis%20Dashboard.png)
+![Dashboard Screenshot](Amazon%20Products%20Sales%20Analysis%20Dashboard-Project/Amazon%20Products%20Sales%20Analysis%20Dashboard.png)
 
 
 ## 📌 How to Use
