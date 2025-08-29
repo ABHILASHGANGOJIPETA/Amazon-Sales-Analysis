@@ -58,6 +58,11 @@ Before building the dashboard, the dataset was cleaned to ensure accuracy and re
 ✔️ Customer reviews show strong engagement, with **SanDisk products** leading  
 
 ---
+## 📊 Dashboard Preview
+Here is the **Amazon Sales Analysis Dashboard** built in Power BI 👇  
+
+![Amazon Sales Dashboard](Dashboard/Amazon%20Products%20Sales%20Analysis%20Dashboard.png)
+
 
 ## 📌 How to Use
 1. Clone this repository or download as ZIP  
