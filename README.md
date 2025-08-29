@@ -76,5 +76,4 @@ Before building the dashboard, the dataset was cleaned to ensure accuracy and re
 
 ## Author
 **Abhilash Gangojipeta**  
-Email: imabhi.1753@gmail.com  
-LinkedIn: [Abhilash Gangojipeta](https://www.linkedin.com/in/abhilashgangojipeta/)  
+
